@@ -1,0 +1,22 @@
+project_id = "thotarnwlrkldiimekbv"
+
+[functions.ai-consulting]
+verify_jwt = false
+
+[functions.elevenlabs-stt]
+verify_jwt = false
+
+[functions.elevenlabs-tts]
+verify_jwt = false
+
+[functions.ai-audit]
+verify_jwt = false
+
+[functions.ai-branding]
+verify_jwt = false
+
+[functions.atlas-assistance]
+verify_jwt = false
+
+[functions.ai-tax-legal]
+verify_jwt = false
