@@ -9,7 +9,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 </div>
 
@@ -19,7 +18,7 @@
 
 ATLAS transforms traditional consulting by leveraging AI to provide instant, scalable strategic guidance. Instead of paying $200K+ and waiting months, get comprehensive business strategy and execution planning in real-time.
 
-**Key Benefits**: ⚡ Instant Insights | 💰 Cost-Effective | 📈 Scalable | 🤖 AI-Powered | 🔒 Secure
+**Key Benefits**: ⚡ Instant Insights | 💰 Cost-Effective | 📈 Scalable | 🤖 AI-Powered | 🔒 Secure (Encrypted)
 
 ---
 
@@ -41,9 +40,9 @@ ATLAS transforms traditional consulting by leveraging AI to provide instant, sca
 
 ## 🛠️ Tech Stack
 
-**Frontend**: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, React Three Fiber, TanStack Query
+**Frontend**: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, React Three Fiber
 
-**Backend**: Supabase (PostgreSQL, Edge Functions), MongoDB, FastAPI
+**Backend**:  MongoDB, Supabase (PostgreSQL, Edge Functions), FastAPI
 
 **Authentication**: Auth0, Supabase Auth
 
@@ -62,7 +61,7 @@ ATLAS transforms traditional consulting by leveraging AI to provide instant, sca
 - **Media API** - Dynamic PDF generation for reports and documents
 - **Chat API** - Intelligent conversational interface with context awareness
 
-### Custom Agentic Pipeline
+### Custom Agentic Pipeline **(OnDemand)**
 Six specialized AI agents:
 1. Strategic Analysis Agent
 2. Financial Analysis Agent
@@ -176,6 +175,6 @@ This project is private and proprietary. All rights reserved.
 
 <div align="center">
 
-**Made with ❤️ using cutting-edge AI and modern web technologies**
+**Made with ❤️ by VANSH AGGARWAL**
 
 </div>
