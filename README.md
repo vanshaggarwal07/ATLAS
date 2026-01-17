@@ -136,6 +136,14 @@ npm test         # Tests
 
 Both APIs are integrated via Supabase Edge Functions and accessible through the ATLAS interface.
 
+### Define the REST API AGENTS & AGENTIC FLOW LINES on ONDEMAND PLATFORM
+### ATTACH EACH LLM NODE IN THE AGENTIC FLOW WITH ITS OWN REST API AGENT
+### DEFINE WEBHOOK URL ON THE DASHBOARD FOR THE MEDIA API
+```bash
+\OnDemand
+    uvicorn backend:app --reload --port 8000
+    ngrok http 8000
+
 ---
 
 ## 📁 Project Structure
