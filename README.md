@@ -146,9 +146,9 @@ Both APIs are integrated via Supabase Edge Functions and accessible through the 
 
 ---
 
+```
 ## 📁 Project Structure
 
-```
 atlas-cunsulting/
 ├── src/components/     # React components (app, audit, layout, ui)
 ├── src/pages/          # Page components and routes
@@ -158,7 +158,7 @@ atlas-cunsulting/
 │   ├── functions/      # Edge Functions (AI agents, voice services)
 │   └── migrations/     # Database migrations
 └── public/             # Static assets
-```
+`
 
 ---
 
